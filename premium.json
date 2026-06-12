@@ -1,9 +1,5 @@
 [
   {
-    "id": 8779401609,
-    "expiresAt": "2026-06-12T16:43:43.131Z"
-  },
-  {
     "id": 1189546122,
     "expiresAt": "PERMANENT"
   },
@@ -25,6 +21,11 @@
   {
     "id": 8522761133,
     "expiresAt": "PERMANENT",
+    "type": "manual"
+  },
+  {
+    "id": 8607080169,
+    "expiresAt": "2026-06-13T22:58:46.475Z",
     "type": "manual"
   }
 ]
