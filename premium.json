@@ -54,5 +54,10 @@
   {
     "id": 8383495904,
     "expiresAt": "PERMANENT"
+  },
+  {
+    "id": 8116693843,
+    "expiresAt": "2026-06-19T19:27:38.989Z",
+    "type": "manual"
   }
 ]
