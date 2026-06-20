@@ -26,6 +26,7 @@
     "goodbyeText": "𝘿𝘼𝘿𝘼𝙃 𝙃𝘼𝙈𝘼 𝘿𝙐𝙉𝙄𝘼 🗿"
   },
   "-1003963583144": {
-    "welcomeStatus": true
+    "welcomeStatus": true,
+    "goodbyeStatus": true
   }
 }
