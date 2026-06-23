@@ -34,7 +34,8 @@
   },
   {
     "id": 8265718776,
-    "expiresAt": "PERMANENT"
+    "expiresAt": "PERMANENT",
+    "type": "manual"
   },
   {
     "id": 8383495904,
