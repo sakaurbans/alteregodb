@@ -106,6 +106,7 @@
   },
   {
     "id": 8723190028,
-    "expiresAt": "PERMANENT"
+    "expiresAt": "PERMANENT",
+    "type": "manual"
   }
 ]
