@@ -54,7 +54,7 @@
     "welcomeText": "selamat datang di group ⚠️SKY WARNING⚡"
   },
   "-1003962098728": {
-    "welcomeStatus": true,
+    "welcomeStatus": false,
     "goodbyeStatus": true
   }
 }
