@@ -160,11 +160,6 @@
     "type": "manual"
   },
   {
-    "id": "8347162147",
-    "expiresAt": "2026-07-13T04:06:10.931Z",
-    "type": "manual"
-  },
-  {
     "id": "8893248312",
     "expiresAt": "2026-07-18T15:07:12.212Z",
     "type": "manual"
@@ -172,16 +167,6 @@
   {
     "id": "2041754580",
     "expiresAt": "PERMANENT",
-    "type": "manual"
-  },
-  {
-    "id": "8506443745",
-    "expiresAt": "2026-07-13T03:55:55.167Z",
-    "type": "manual"
-  },
-  {
-    "id": "6942018641",
-    "expiresAt": "2026-07-13T03:56:00.389Z",
     "type": "manual"
   },
   {
