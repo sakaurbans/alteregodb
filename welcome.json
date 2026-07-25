@@ -77,23 +77,5 @@
   "-1003927111279": {
     "welcomeStatus": true,
     "goodbyeStatus": true
-  },
-  "-1003924888985": {
-    "welcomeData": {
-      "htmlText": "<blockquote>Halo %nama%! Selamat Datang 🔆</blockquote>\n\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 𝗗𝗶 𝗚𝗿𝗼𝘂𝗽 %group%\n\n<blockquote>Disini Adalah Tempat Dimana Semua Pengguna JavaScript Kintana Berkumpul </blockquote>\n\n<blockquote>Aturan Disini :</blockquote>\n• Dilarang Drama 1 Sama Lain\n• Dilarang Menghina 1 Sama Lain \n• Dilarang Menyebar Hal Hal Porno/18+\n• Dilarang Mengirim Link (Apapun Itu)\n\n<blockquote>Jaga Lisan Dan Hindari Berdebat Dengan Orang Yang Penuh Ke Egoisan </blockquote>\n\n<blockquote>Informasi Kamu</blockquote>\n• Nama : %nama%\n• Username : %username%\n• Id : <code>%id%</code>\n\nSemoga Kamu Betah Yaa 😋",
-      "photo": "AgACAgUAAyEFAATp8Q2ZAAMlamTbZvyHR8Vn3Ffmh-ITUo1_C-4AAr4daxtVgShXmrerYwcGqTkBAAMCAAN5AAM9BA"
-    },
-    "welcomeStatus": true,
-    "goodbyeStatus": true,
-    "goodbyeData": {
-      "htmlText": "<blockquote>%nama%! Telah Meninggalkan Group Ini!</blockquote>\n\nSemoga Kamu Mendapat Hal Hal Menyenangkan 😊\n\n<blockquote>Informasi Pengguna :</blockquote>\n• Nama : %nama%\n• Username : %username%\n• Id : %id%",
-      "photo": "AgACAgUAAyEFAATp8Q2ZAAM5amThDaiY0NkvxfswqAvbp8rIgHkAAtYdaxtVgShXQ8tgLv-z5XYBAAMCAAN5AAM9BA"
-    }
-  },
-  "-1003783479442": {
-    "welcomeData": {
-      "htmlText": "<blockquote>Halo %nama%! Selamat Datang 🔆</blockquote>\n\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 𝗗𝗶 𝗚𝗿𝗼𝘂𝗽 %group%\n\n<blockquote>Disini Adalah Tempat Dimana Semua Pengguna JavaScript Kintana Berkumpul </blockquote>\n\n<blockquote>Aturan Disini :</blockquote>\n• Dilarang Drama 1 Sama Lain\n• Dilarang Menghina 1 Sama Lain \n• Dilarang Menyebar Hal Hal Porno/18+\n• Dilarang Mengirim Link (Apapun Itu)\n\n<blockquote>Jaga Lisan Dan Hindari Berdebat Dengan Orang Yang Penuh Ke Egoisan </blockquote>\n\n<blockquote>Informasi Kamu</blockquote>\n• Nama : %nama%\n• Username : %username%\n• Id : <code>%id%</code>\n\nSemoga Kamu Betah Yaa 😋"
-    },
-    "welcomeStatus": true
   }
 }
