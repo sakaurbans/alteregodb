@@ -84,7 +84,11 @@
       "photo": "AgACAgUAAyEFAATp8Q2ZAAMlamTbZvyHR8Vn3Ffmh-ITUo1_C-4AAr4daxtVgShXmrerYwcGqTkBAAMCAAN5AAM9BA"
     },
     "welcomeStatus": true,
-    "goodbyeStatus": true
+    "goodbyeStatus": true,
+    "goodbyeData": {
+      "htmlText": "<blockquote>%nama%! Telah Meninggalkan Group Ini!</blockquote>\n\nSemoga Kamu Mendapat Hal Hal Menyenangkan 😊\n\n<blockquote>Informasi Pengguna :</blockquote>\n• Nama : %nama%\n• Username : %username%\n• Id : %id%",
+      "photo": "AgACAgUAAyEFAATp8Q2ZAAM5amThDaiY0NkvxfswqAvbp8rIgHkAAtYdaxtVgShXQ8tgLv-z5XYBAAMCAAN5AAM9BA"
+    }
   },
   "-1003783479442": {
     "welcomeData": {
