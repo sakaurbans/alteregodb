@@ -1,18 +1,7 @@
 {
   "-1003834264201": {
     "goodbyeStatus": true,
-    "welcomeStatus": true,
-    "welcomeData": {
-      "caption": "HOLA MEKKKK",
-      "caption_entities": [
-        {
-          "offset": 0,
-          "length": 11,
-          "type": "blockquote"
-        }
-      ],
-      "photo": "AgACAgUAAyEFAATp8Q2ZAAMbamS8LMIlxtGI9NenX9PNqGW_ZN4AAlwdaxtVgShXAqrJmNLLQLABAAMCAAN4AAM9BA"
-    }
+    "welcomeStatus": true
   },
   "-1003920441072": {
     "welcomeStatus": true,
