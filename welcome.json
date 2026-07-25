@@ -87,6 +87,7 @@
   "-1003783479442": {
     "welcomeData": {
       "htmlText": "<blockquote>Halo %nama%! Selamat Datang 🔆</blockquote>\n\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 𝗗𝗶 𝗚𝗿𝗼𝘂𝗽 %group%\n\n<blockquote>Disini Adalah Tempat Dimana Semua Pengguna JavaScript Kintana Berkumpul </blockquote>\n\n<blockquote>Aturan Disini :</blockquote>\n• Dilarang Drama 1 Sama Lain\n• Dilarang Menghina 1 Sama Lain \n• Dilarang Menyebar Hal Hal Porno/18+\n• Dilarang Mengirim Link (Apapun Itu)\n\n<blockquote>Jaga Lisan Dan Hindari Berdebat Dengan Orang Yang Penuh Ke Egoisan </blockquote>\n\n<blockquote>Informasi Kamu</blockquote>\n• Nama : %nama%\n• Username : %username%\n• Id : <code>%id%</code>\n\nSemoga Kamu Betah Yaa 😋"
-    }
+    },
+    "welcomeStatus": true
   }
 }
