@@ -94,6 +94,7 @@
     }
   },
   "-1003550577558": {
-    "welcomeStatus": true
+    "welcomeStatus": true,
+    "goodbyeStatus": true
   }
 }
