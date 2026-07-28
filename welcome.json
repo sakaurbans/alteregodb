@@ -77,5 +77,17 @@
   "-1003927111279": {
     "welcomeStatus": true,
     "goodbyeStatus": true
+  },
+  "-1003924888985": {
+    "welcomeStatus": true,
+    "goodbyeStatus": true,
+    "welcomeData": {
+      "htmlText": "<blockquote>Halo %nama%! Selamat Datang 🔆</blockquote>\n\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗗𝗮𝘁𝗮𝗻𝗴 𝗗𝗶 𝗚𝗿𝗼𝘂𝗽 %group%\n\n<blockquote>Disini Adalah Tempat Dimana Semua Pengguna Kintana Role JS Berkumpul </blockquote>\n\n<blockquote>Aturan Disini :</blockquote>\n• Dilarang Drama 1 Sama Lain\n• Dilarang Menghina 1 Sama Lain \n• Dilarang Menyebar Hal Hal Porno/18+\n• Dilarang Mengirim Link (Apapun Itu)\n\n<blockquote>Jaga Lisan Dan Hindari Berdebat Dengan Orang Yang Penuh Ke Egoisan </blockquote>\n\n<blockquote>Informasi Kamu</blockquote>\n• Nama : %nama%\n• Username : %username%\n• Id : %id%\n\nSemoga Kamu Betah Yaa 😋",
+      "photo": "AgACAgUAAyEFAATp8Q2ZAAOuamYwVvEROZStpHymXOKaLzL7dr4AAmoUaxub1TlX7UvoWT8g1rsBAAMCAAN5AAM9BA"
+    },
+    "goodbyeData": {
+      "htmlText": "<blockquote>Halo %nama%! Sampai Jumpa 👋</blockquote>\n\n𝗦𝗲𝗹𝗮𝗺𝗮𝘁 𝗧𝗶𝗻𝗴𝗴𝗮𝗹 𝗗𝗮𝗿𝗶 𝗚𝗿𝗼𝘂𝗽 %group%\n\n<blockquote>Terima kasih sudah pernah menjadi bagian dari komunitas Kintana Role JS.</blockquote>\n\n<blockquote>Informasi Kamu </blockquote>\n• Nama : %nama%\n• Username : %username%\n• ID : %id%\n\n<blockquote>Semoga semua urusanmu berjalan lancar dan semoga sukses selalu. Jika suatu saat ingin kembali bergabung, pintu grup ini akan selalu terbuka selama tetap mematuhi peraturan yang berlaku.</blockquote>\n\nSampai jumpa lagi, semoga kita bisa bertemu kembali di lain waktu. 👋",
+      "photo": "AgACAgUAAyEFAATp8Q2ZAAOvamYw3rDb3nZO81a-Dvyl9TbDyb0AAmsUaxub1TlXN6TgVQKSfv0BAAMCAAN5AAM9BA"
+    }
   }
 }
