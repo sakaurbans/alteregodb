@@ -227,11 +227,6 @@
     "expiresAt": "PERMANENT"
   },
   {
-    "id": "7482492142",
-    "expiresAt": "2026-07-29T03:41:48.894Z",
-    "type": "manual"
-  },
-  {
     "id": "6738226765",
     "expiresAt": "2026-07-29T13:28:36.221Z",
     "type": "manual"
