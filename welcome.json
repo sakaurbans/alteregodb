@@ -95,6 +95,7 @@
     "welcomeStatus": true
   },
   "-1003989648286": {
-    "welcomeStatus": true
+    "welcomeStatus": true,
+    "welcomeText": "SELAMAT DATANG KUNYUK %nama% (%username%) DI %SEKEDAR INFORMASI%!"
   }
 }
