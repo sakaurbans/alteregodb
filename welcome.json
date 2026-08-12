@@ -98,5 +98,8 @@
     "welcomeStatus": true,
     "welcomeText": "SELAMAT DATANG KUNYUK %nama% (%username%) DI %SEKEDAR INFORMASI%!",
     "goodbyeText": "LAH SI %nama% OUT GOOD LUCK YA JANGAN BALIK LAGI KE %SEKEDAR INFORMASI%"
+  },
+  "-1004450286347": {
+    "welcomeStatus": true
   }
 }
