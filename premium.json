@@ -142,6 +142,7 @@
   },
   {
     "id": 8691762592,
-    "expiresAt": "PERMANENT"
+    "expiresAt": "PERMANENT",
+    "type": "manual"
   }
 ]
