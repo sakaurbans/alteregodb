@@ -1,10 +1,5 @@
 [
   {
-    "id": 1,
-    "expiresAt": "PERMANENT",
-    "type": "manual"
-  },
-  {
     "id": 5922664287,
     "expiresAt": "2036-05-01T03:47:36.452Z",
     "type": "manual"
